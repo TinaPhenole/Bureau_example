@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\skrap\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\Bureau_example.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitTest\\GitHubTest - Byrån\\Bureau_example\\Bureau_example.csproj",
       "projectName": "Bureau_example",
-      "projectPath": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\Bureau_example.csproj",
-      "packagesPath": "C:\\Users\\skrap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\obj\\",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitTest\\GitHubTest - Byrån\\Bureau_example\\Bureau_example.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitTest\\GitHubTest - Byrån\\Bureau_example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\skrap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

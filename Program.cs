@@ -7,7 +7,7 @@ class Program
         string contents = "";
 
         System.Console.WriteLine("Öppnar byrålådan...");
-
+        // test
         while (true)
         {
             System.Console.Write("Vad vill du lägga i lådan: ");
